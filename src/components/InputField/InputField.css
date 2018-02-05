@@ -1,0 +1,12 @@
+.inputField .input{
+    max-width: 50%;
+}
+
+.inputField .select{
+    width: 6em;
+    margin: .3em;
+}
+
+.inputField .button{
+    margin: 0 .3em;
+}
